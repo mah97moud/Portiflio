@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.chronicleDisFont{
+    font-family: 'ChronicleDisplay' ,sans-serif;
+    font-weight: bold;
+}
+.firaSansFont{
+    font-family: 'FiraSans' ,sans;
+    font-weight: 300;
+}
+#pg-head{
+    background: #095475 url("../../Img/Background.png") center top no-repeat ;
+    color: #ffffff;
+}
+#Logo{
+    margin: auto;
+    display: block;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+// .container{
+//     padding-left: 285px!important;
+//     padding-right: 285px!important;
+// }
+.my-name{
+    font-size: 16px;
+    padding-top: 240px;
+    
+}
+.title{
+    font-size: 80px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+.text{
+    font-size: 21px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+// small devices
+@media(min-width: 576px){
+
+}
+// madium devices
+@media(min-width: 768px){
+
+}
+// Large devices
+@media(min-width: 992px){
+
+}
+// Extra large devices
+@media(min-width: 1200px){
+
+}
